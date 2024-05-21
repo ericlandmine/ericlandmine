@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ericlandmine
-- 👀 I’m a VP for a Pittsburgh cyber risk management and cloud security focused consulting company. 
+- 👀 I’m a COO for a Pittsburgh cyber risk management and cloud security company. 
 - 🌱 I’m currently learning all there is to learn about DevOps, AppSec, Ethical Hacking, Cloud Native Security, Risk, Compliance, and InfoSec Leadership.
 - 💞️ I’m looking to collaborate on anything security related.
 - 📫 How to reach me - Twitter @ericlandmine Mastodon @ericlandmine
